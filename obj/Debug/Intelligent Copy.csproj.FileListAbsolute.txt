@@ -1,0 +1,14 @@
+C:\Users\Ouss\Desktop\programming\learning Clipboard\clipppBoard\clipppBoard\bin\Debug\Intelligent Copy.exe.config
+C:\Users\Ouss\Desktop\programming\learning Clipboard\clipppBoard\clipppBoard\bin\Debug\Intelligent Copy.exe
+C:\Users\Ouss\Desktop\programming\learning Clipboard\clipppBoard\clipppBoard\bin\Debug\Intelligent Copy.pdb
+C:\Users\Ouss\Desktop\programming\learning Clipboard\clipppBoard\clipppBoard\obj\Debug\MainWindow.g.cs
+C:\Users\Ouss\Desktop\programming\learning Clipboard\clipppBoard\clipppBoard\obj\Debug\App.g.cs
+C:\Users\Ouss\Desktop\programming\learning Clipboard\clipppBoard\clipppBoard\obj\Debug\Intelligent Copy_MarkupCompile.cache
+C:\Users\Ouss\Desktop\programming\learning Clipboard\clipppBoard\clipppBoard\obj\Debug\Intelligent Copy_MarkupCompile.lref
+C:\Users\Ouss\Desktop\programming\learning Clipboard\clipppBoard\clipppBoard\obj\Debug\MainWindow.baml
+C:\Users\Ouss\Desktop\programming\learning Clipboard\clipppBoard\clipppBoard\obj\Debug\Intelligent Copy.g.resources
+C:\Users\Ouss\Desktop\programming\learning Clipboard\clipppBoard\clipppBoard\obj\Debug\Intelligent Copy.csproj.GenerateResource.cache
+C:\Users\Ouss\Desktop\programming\learning Clipboard\clipppBoard\clipppBoard\obj\Debug\Intelligent Copy.csproj.CoreCompileInputs.cache
+C:\Users\Ouss\Desktop\programming\learning Clipboard\clipppBoard\clipppBoard\obj\Debug\Intelligent Copy.exe
+C:\Users\Ouss\Desktop\programming\learning Clipboard\clipppBoard\clipppBoard\obj\Debug\Intelligent Copy.pdb
+C:\Users\Ouss\Desktop\programming\learning Clipboard\clipppBoard\clipppBoard\obj\Debug\IntelligentCopy.Properties.Resources.resources

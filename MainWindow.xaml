@@ -1,0 +1,21 @@
+﻿<Window x:Class="clipppBoard.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:clipppBoard"
+        mc:Ignorable="d"
+        Title="Intelligent Copy" Height="450" Width="800" MinWidth="800" MaxWidth="800" MinHeight="450" MaxHeight="450" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="copiedResult" HorizontalAlignment="Center" VerticalAlignment="Center" Width="750" Height="330"  FontSize="15" HorizontalScrollBarVisibility="Auto"></TextBox>
+        <StackPanel  Orientation="Horizontal" HorizontalAlignment="Center" Grid.Row="1">
+            <Button  Height="30" Width="50" Content="save" Click="Button_Click"/>
+            <Button  Height="30" Width="50" Margin="15 0 15 0" Content="Copy All" Click="Button_Click_1"/>
+            <Button Height="30" Width="50" Content="Clear" Click="Button_Click_2"/>
+        </StackPanel>
+    </Grid>
+</Window>
