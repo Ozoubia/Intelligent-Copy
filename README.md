@@ -18,14 +18,14 @@ to paste all the text you copied you need go to where you want to paste it and p
 SCREENSHOTS <br /> 
 * <br />
 text 1  copy : <br />
-![Screenshot](README/Capture1.png) <br />
+![Screenshot](../master/README/Capture1.png) <br />
 text 2 copy : <br />
-![Screenshot](README/Capture2.png) <br />
+![Screenshot](../master/README/Capture2.png) <br />
 destination paste : <br />
-![Screenshot](README/Capture3.png) <br />
+![Screenshot](../master/README/Capture3.png) <br />
 
 before you paste the text to your destination file you can make any changes you want. <br />
-![Screenshot](README/Capture4.png)<br />
+![Screenshot](../master/README/Capture4.png)<br />
 <br />
 -you can save all the copied text to a txt file by pressing the save button .
 -each time you want to restart the copying press you can press the clear button or press the combination : CTRL + SHIFT + X , 
